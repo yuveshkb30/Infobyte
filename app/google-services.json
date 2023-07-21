@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356347004752",
+    "project_id": "login-register-3ee5e",
+    "storage_bucket": "login-register-3ee5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356347004752:android:965a4f0adf99b0c0328e55",
+        "android_client_info": {
+          "package_name": "com.yuvesh.infobyte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356347004752-tuup5a3uqiq5gq4u7rfn00nu8p5ftga4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADSN9bwxMGrCUMigUCbPlu0Qi_-g5lE0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356347004752-tuup5a3uqiq5gq4u7rfn00nu8p5ftga4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
